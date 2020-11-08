@@ -10,6 +10,13 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
+###################
+Username dan Password
+###################
+
+Username : (ronnymn, kanita)
+Password : (roman123, kanita123)
+
 *******************
 Release Information
 *******************
